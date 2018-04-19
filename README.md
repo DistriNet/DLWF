@@ -4,6 +4,18 @@ https://distrinet.cs.kuleuven.be/software/tor-wf-dl/
 
 The code is soon to be updated, come back later for the final framework.
 
+If you found our framework useful for your research, please cite:
+
+```
+@inproceedings{vissers2015parking,
+  title={Automated Website Fingerprinting through Deep Learning},
+  author={Rimmer, Vera and Preuveneers, Davy and Juarez, Marc and Van Goethem, Tom and Joosen, Wouter},
+  booktitle={Proceedings of the 25nd Network and Distributed System Security Symposium (NDSS 2018)},
+  year={2018},
+  organization={Internet Society}
+}
+```
+
 The datasets used for the evaluation are available to download under these links:
 
 Closed World --
