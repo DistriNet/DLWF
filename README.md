@@ -7,7 +7,7 @@ The code is soon to be updated, come back later for the final framework.
 If you found our framework useful for your research, please cite:
 
 ```
-@inproceedings{vissers2015parking,
+@inproceedings{Rimmer2018,
   title={Automated Website Fingerprinting through Deep Learning},
   author={Rimmer, Vera and Preuveneers, Davy and Juarez, Marc and Van Goethem, Tom and Joosen, Wouter},
   booktitle={Proceedings of the 25nd Network and Distributed System Security Symposium (NDSS 2018)},
