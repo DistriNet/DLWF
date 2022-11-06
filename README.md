@@ -2,8 +2,6 @@ This is the source code used for the research paper Automated Website Fingerprin
 
 https://distrinet.cs.kuleuven.be/software/tor-wf-dl/
 
-The code is soon to be updated, come back later for the final framework.
-
 If you found our framework useful for your research, please cite:
 
 ```
